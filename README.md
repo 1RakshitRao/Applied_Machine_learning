@@ -1,4 +1,4 @@
-# **CS P556: Applied Machine Learning - Assignments Repository**
+# **CS P556: Applied Machine Learning**
 
 ## **About This Repository**
 This repository contains my assignments for **CS P556: Applied Machine Learning (Spring 2025)**.  
